@@ -14,5 +14,3 @@ int main()
 	cout<<" the sum of numbers are "<<sum<<endl;
 	return 0;
 }
-Footer
-© 2022 GitHub, Inc.
